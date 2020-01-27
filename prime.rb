@@ -1,5 +1,5 @@
 require 'prime'
-def prime(array_
+def prime(array)
 array = [1..15]
 prime.join.collect
 end
