@@ -1,1 +1,4 @@
-# Add  code here!
+require 'prime'
+def prime(a)
+prime.first(a)
+end
