@@ -1,4 +1,4 @@
 require 'prime'
-def prime(a)
+def prime("")
 prime.first(a)
 end
