@@ -1,4 +1,4 @@
 require 'prime'
 def prime(25)
-prime.first(26)
+array = [1..15]
 end
